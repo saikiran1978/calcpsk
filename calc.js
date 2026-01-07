@@ -2,7 +2,8 @@ function add(x, y) {
 return x + y;
 };
 function sub(x, y) {
-return x - y;
+   z=x-y;
+    return z;
 };
 function mult(x, y) {
 return x * y;
