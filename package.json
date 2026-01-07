@@ -1,17 +1,6 @@
 {
  "name":"calcpsk",
  "version":"0.0.1",
- "main":"calc",
- "repository": {
-    "type": "git",
-    "url": "https://github.com/saikiran1978/calcpsk"
- },
- "keywords": [
-    "calc","calcpsk","psk"
- ],
- "dependencies": {},
- "engines": {
- "node": "*"
- }
+ "main":"calc"
 }
     
