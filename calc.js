@@ -1,6 +1,5 @@
 function add(x, y) {
-    z=x+y;
-return z;
+return x + y;
 };
 function sub(x, y) {
 return x - y;
